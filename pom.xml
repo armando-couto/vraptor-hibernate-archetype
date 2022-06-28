@@ -118,7 +118,7 @@
 			<extension>
 				<groupId>org.apache.maven.scm</groupId>
 				<artifactId>maven-scm-provider-svnexe</artifactId>
-				<version>1.0</version>
+				<version>1.13.0</version>
 			</extension>
 		</extensions>
 	</build>
